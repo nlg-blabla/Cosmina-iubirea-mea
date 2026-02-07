@@ -131,3 +131,15 @@ pentru scumpa mea fatiță!
   </script>
 </body>
 </html>
+
+<!-- Pătrățel cu videoclip YouTube -->
+<div class="video-box" style="width:320px; height:180px; margin:20px auto; border:3px solid #ff69b4; border-radius:12px; overflow:hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/R_sITjl1G2U" 
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<p style="text-align:center; color:#ff1493;">Apasă play în pătrățel pentru a asculta muzica lui Costel Biju!</p>
